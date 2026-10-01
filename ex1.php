@@ -34,7 +34,7 @@ foreach ($Notes as $key => $value) {
 echo "</br>L'etudiant qui a une bonne note: ".$b;
 ?>
 <div class="mt-lg-5">
-<table class="table">
+<table class="table ">
     <tr><th>NOM</th><th>Note en PHP</th></tr>
     <?php
     foreach ($Notes as $key => $value) {

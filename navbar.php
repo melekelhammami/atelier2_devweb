@@ -7,21 +7,21 @@
     <div class="collapse navbar-collapse" id="navbarColor01" bis_skin_checked="1">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="#">Exercice 1
+          <a class="nav-link active" href="ex1.php">Exercice 1
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercice 2</a>
+          <a class="nav-link" href="ex2.php">Exercice 2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercice 3</a>
+          <a class="nav-link" href="ex3.php">Exercice 3</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercice 4</a>
+          <a class="nav-link" href="ex4.php">Exercice 4</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Exercice 5</a>
+          <a class="nav-link" href="ex5.php">Exercice 5</a>
         </li>
       </ul>
     </div>
